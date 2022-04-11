@@ -11,4 +11,4 @@ The project is made using NodeJS. Visit [NodeJS](https://nodejs.org/en/download/
 - Run `npm install` to install all the node dependencies.
 - Start the mongodb server.
 - Enter `npm run start` to start the server on the specified port (default 3000).
-- Access the website by entering `localhost:3000` in the URL bar of your web browser.
+- Access the website by entering `43.204.27.1873000` in the URL bar of your web browser.
